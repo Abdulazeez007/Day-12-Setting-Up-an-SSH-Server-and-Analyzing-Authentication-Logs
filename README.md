@@ -49,6 +49,8 @@ In today’s digital landscape, understanding server security is crucial. This g
 
     > **Note**: If you’ve just created the server, it may take some time before meaningful logs appear.
 
+    ![Alt text](URL_to_image)
+
 ## Analyzing Failed Authentication Attempts
 
 After an hour or so, you should start seeing failed authentication logs. Let’s analyze them:
@@ -58,6 +60,7 @@ After an hour or so, you should start seeing failed authentication logs. Let’s
     ```bash
     grep -i failed auth.log
     ```
+   ![Alt text](URL_to_image)
 
 2. Filter failed attempts for the `root` user:
 
