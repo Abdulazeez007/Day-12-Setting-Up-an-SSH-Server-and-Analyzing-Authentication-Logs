@@ -49,7 +49,7 @@ In today’s digital landscape, understanding server security is crucial. This g
 
     > **Note**: If you’ve just created the server, it may take some time before meaningful logs appear.
 
-    ![Alt text](URL_to_image)
+    ![Alt text](https://raw.githubusercontent.com/Virus192/Day-12-Setting-Up-an-SSH-Server-and-Analyzing-Authentication-Logs/refs/heads/main/Images/photo_5987967405093143046_w.jpg)
 
 ## Analyzing Failed Authentication Attempts
 
@@ -60,7 +60,7 @@ After an hour or so, you should start seeing failed authentication logs. Let’s
     ```bash
     grep -i failed auth.log
     ```
-   ![Alt text](URL_to_image)
+   ![Alt text](https://raw.githubusercontent.com/Virus192/Day-12-Setting-Up-an-SSH-Server-and-Analyzing-Authentication-Logs/refs/heads/main/Images/photo_5987967405093143047_w.jpg)
 
 2. Filter failed attempts for the `root` user:
 
