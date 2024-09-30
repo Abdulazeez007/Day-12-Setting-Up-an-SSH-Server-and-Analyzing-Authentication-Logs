@@ -3,6 +3,7 @@
 
 In today’s digital landscape, understanding server security is crucial. This guide walks you through setting up an SSH server on Vultr and analyzing its authentication logs. By the end, you’ll have hands-on experience with server deployment and basic security monitoring.
 
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-12-Setting-Up-an-SSH-Server-and-Analyzing-Authentication-Logs/refs/heads/main/Images/photo_5987967405093143043_w.jpg)
 ## Deploying Your SSH Server on Vultr
 
 1. Log in to your Vultr account.
